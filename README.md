@@ -2,7 +2,7 @@
 
 :floppy_disk: Flysystem adapter for the Upyun cloud storage.
 
-> 这个包修改自来自 [overtrue/flysystem-qiniu](https://github.com/overtrue/flysystem-qiniu)
+> This package is modified from [overtrue/flysystem-qiniu](https://github.com/overtrue/flysystem-qiniu)
 
 # Requirement
 
