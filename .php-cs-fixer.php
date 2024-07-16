@@ -46,4 +46,4 @@ return (new PhpCsFixer\Config())
             ->exclude('vendor')
             ->in([__DIR__.'/src/', __DIR__.'/tests/'])
     )
-;
+    ;
